@@ -3,8 +3,8 @@ import { writeFile } from "fs/promises";
 
 /**
  *
- * Before using this program, please make sure to set your
- * spreadsheet sharing options as open to anyone with the link.
+ * Link sharing must be turned on so anyone with the link
+ * can view the Google Sheet
  *
  * You can change it later
  *
